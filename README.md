@@ -21,4 +21,4 @@ Networking and routing layout.
 
 ## ⭐ [The Future](docs/future.md)
 
-Goals and Projects I have for the homelab.
+Goals and projects I have for the homelab.
