@@ -17,8 +17,8 @@ Kubernetes cluster design and additional services
 
 ## 🌐 [Networking](docs/networking.md)
 
-Networking and routing layout.
+Networking and routing layout w/ draw.io
 
 ## ⭐ [The Future](docs/future.md)
 
-Goals and projects I have for the homelab.
+Goals and projects I have for the homela
