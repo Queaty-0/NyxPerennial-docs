@@ -2,3 +2,23 @@
 Documentation of my Homelab
 
 Welcome! This repo documents my home infrastructure lab ("NyxPerennial"). It contains a 3-node Proxmox cluster, an OPNsense firewall/router, Kubernetes by K3s, and several self-hosted services.
+
+## 📓 Architecture[docs/architecture.md]
+
+What's inside my homelab? A physical and logical design of the homelab.
+
+## 💻 Services[docs/services.md]
+
+Overview of applications, containers, and VMs currently running.
+
+## ☸️ Kubernetes[docs/kubernetes.md]
+
+Kubernetes cluster design and additional services
+
+## 🌐 Networking[docs/networking.md]
+
+Networking and routing layout.
+
+## ⭐ The Future[docs/future.md]
+
+Goals and Projects I have for the homelab.
