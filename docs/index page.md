@@ -1,3 +1,0 @@
-# NyxPerennial Homelab Docs
-
-
