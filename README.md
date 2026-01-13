@@ -15,10 +15,6 @@ Overview of applications, containers, and VMs currently running.
 
 Kubernetes cluster design and additional services
 
-## 🌐 [Networking](docs/networking.md)
-
-Networking and routing layout w/ draw.io
-
 ## ⭐ [The Future](docs/future.md)
 
 Goals and projects I have for the homela
